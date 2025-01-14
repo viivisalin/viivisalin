@@ -1,7 +1,7 @@
 ## Hello 🤗
 
 ### About me
-Hi, I'm Viivi ! I started studying software development in January 2023 at Haaga-Helia UAS. I mainly code with Java but I have experience with other languages like Python, JavaScript, HTML and C++. 
+Hi, I'm Viivi ! I started studying software development in January 2023 at Haaga-Helia UAS. I mainly code with Java but I have experience with other languages like Python, JavaScript, HTML, SQL, C# and C++. 
 
 <!--
 **viivisalin/viivisalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
