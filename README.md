@@ -5,13 +5,14 @@ I'm Viivi, a third year business information tecnology student majoring in full 
 
 - Java
 - JavaScript
+- TypeScript
 - Python
 - HTML and CSS
 - C#
 - C++
 - SQL
 
-I have most experience with Java and JavaScript. I enjoy working on Front End using React and React Native. I also have some experience doing testing with Robot Framework and unit testing with JUnit.
+I have most experience with Java, JavaScript and TypeScript. I enjoy working on Front End using React and React Native. I also have some experience doing testing with Robot Framework and unit testing with JUnit.
 <!--
 **viivisalin/viivisalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
