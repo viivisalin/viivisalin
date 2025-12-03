@@ -1,7 +1,7 @@
 ## Hello 🤗
 
 ### About me
-I'm Viivi, a third year business information tecnology student majoring in full stack software development. I started my studies in January 2023 at Haaga-Helia UAS and I am to graduate in 2025. I have experience coding with  multiple languages and technologies like: 
+I'm Viivi, a Business Information Tecnology graduate with a major in Full Stack Software Development. I started my studies in January 2023 at Haaga-Helia UAS and I graduated in December 2025. I have experience coding with  multiple languages and technologies like: 
 
 - Java
 - JavaScript
